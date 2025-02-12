@@ -1,2 +1,2 @@
-# public
-A repo for public docs
+# Public
+This is a repos for sharing docs
